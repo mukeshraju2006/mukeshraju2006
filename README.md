@@ -6,13 +6,8 @@
 <div align="center">
 
 <!-- TOP FIRE LINE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,20:330000,50:8b0000,80:330000,100:000000&height=3"/>
-
-<!-- HERO — deep crimson dark venom -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,15:0d0000,40:1a0000,60:120000,85:0d0000,100:000000&height=300&section=header&text=PODILAPU%20MUKESH%20RAJU&fontSize=58&fontColor=cc2200&animation=fadeIn&fontAlignY=40&desc=Developer%20%20%C2%B7%20%20AI%2FML%20Engineer%20in%20the%20Making%20%20%C2%B7%20%20Integrated%20M.Tech%20CSE&descAlignY=62&descSize=15&descColor=4a1010&stroke=660000&strokeWidth=1"/>
-
-<!-- HERO FADES INTO BAT LOGO SEAMLESSLY -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,20:330000,50:8b0000,80:330000,100:000000&height=3"/>
+<!-- HERO: bat logo IS the background, name sits on top -->
+<img width="100%" src="./hero.svg" alt="Podilapu Mukesh Raju"/>
 
 </div>
 
@@ -20,10 +15,7 @@
 
 <div align="center">
 
-<!-- MAIN BAT LOGO — fades into black below -->
-<img src="./batman.svg" width="100%" alt=""/>
-
-<!-- TYPING — sits right below the bat, feels connected -->
+<!-- TYPING -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2800&pause=1000&color=CC2200&center=true&vCenter=true&width=800&height=42&lines=I+am+vengeance.+I+am+the+night.+I+am+a+Developer.;2nd+Year+Integrated+M.Tech+CSE+%7C+India+%F0%9F%87%AE%F0%9F%87%B3;Not+who+I+am+underneath+%E2%80%94+but+what+I+BUILD.;Python+%7C+Java+%7C+JavaScript+%7C+React+%7C+AI%2FML;The+night+is+darkest+before+the+code+deploys.;The+fire+rises.+%F0%9F%94%A5" alt="typing"/>
 
 <br/><br/>
