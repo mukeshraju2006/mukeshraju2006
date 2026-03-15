@@ -38,7 +38,7 @@
 ```python
 #!/usr/bin/env python3
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-#   mukeshraju2006  ·  System Boot  ·  THE DARK KNIGHT
+#   mukeshraju2006
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 class MukeshRaju:
