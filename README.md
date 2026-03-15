@@ -85,7 +85,7 @@ print(me.rise())
 
 <div align="center">
 
-### 🔴 Languages of the Night
+### 🔴 Languages that i speak
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=cc2200)
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=cc2200)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=cc2200)
