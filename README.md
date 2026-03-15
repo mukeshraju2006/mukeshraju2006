@@ -202,25 +202,6 @@ print(mukesh)
 
 ---
 
-## 🎯 2025 Goals
-
-<div align="center">
-
-| Goal | Status |
-|------|--------|
-| 🤖 Complete ML Fundamentals | 🔥 In Progress |
-| 🧠 Build first AI project end-to-end | 📋 Planned |
-| ⚛️ Master React & advanced JS | 🔥 In Progress |
-| 📦 Publish 5+ open source repos | 📋 Planned |
-| 🏆 Win a hackathon | 💪 Challenge Accepted |
-| 🌐 Deploy a full-stack AI app | 🎯 Target |
-
-</div>
-
-<br/>
-
----
-
 ## 🌐 Find Me Online
 
 <div align="center">
@@ -237,12 +218,8 @@ print(mukesh)
 
 <br/>
 
-### 🐍 My Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mukeshraju2006/mukeshraju2006/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mukeshraju2006/mukeshraju2006/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/mukeshraju2006/mukeshraju2006/output/github-snake.svg" />
-</picture>
+### 📅 Contribution Calendar
+<img width="96%" src="https://ghchart.rshah.org/00ffcc/mukeshraju2006" alt="Mukesh's GitHub Contribution Chart" />
 
 </div>
 
