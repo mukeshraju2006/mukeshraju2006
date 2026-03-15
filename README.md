@@ -17,64 +17,11 @@
 
 <br/>
 
-<!-- ═══ BATMAN SYMBOL — LARGE, CENTERED, GOLD ═══ -->
+<!-- ═══ BATMAN SYMBOL ═══ -->
 <div align="center">
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="520">
-  <defs>
-    <radialGradient id="glowGold" cx="50%" cy="60%" r="50%">
-      <stop offset="0%"   stop-color="#d4af37" stop-opacity="0.18"/>
-      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
-    </radialGradient>
-    <filter id="batglow">
-      <feGaussianBlur stdDeviation="6" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
-
-  <!-- Background -->
-  <rect width="800" height="300" fill="#000000"/>
-
-  <!-- Ambient glow behind symbol -->
-  <ellipse cx="400" cy="170" rx="320" ry="120" fill="url(#glowGold)"/>
-
-  <!-- ── BAT SYMBOL ── -->
-  <g filter="url(#batglow)" transform="translate(400,155)">
-
-    <!-- Main body ellipse -->
-    <ellipse cx="0" cy="30" rx="240" ry="68" fill="#d4af37"/>
-    <!-- Inner body cutout -->
-    <ellipse cx="0" cy="30" rx="178" ry="50" fill="#000000"/>
-
-    <!-- Left wing peak -->
-    <ellipse cx="-175" cy="-18" rx="80" ry="100" fill="#d4af37"/>
-    <ellipse cx="-175" cy="-18" rx="53"  ry="76"  fill="#000000"/>
-
-    <!-- Right wing peak -->
-    <ellipse cx="175"  cy="-18" rx="80" ry="100" fill="#d4af37"/>
-    <ellipse cx="175"  cy="-18" rx="53"  ry="76"  fill="#000000"/>
-
-    <!-- Head notch -->
-    <polygon points="0,-52 -28,18 28,18" fill="#000000"/>
-
-    <!-- Left inner wing cutout -->
-    <ellipse cx="-105" cy="46" rx="62" ry="30" fill="#000000" transform="rotate(-14,-105,46)"/>
-    <!-- Right inner wing cutout -->
-    <ellipse cx="105"  cy="46" rx="62" ry="30" fill="#000000" transform="rotate(14,105,46)"/>
-
-    <!-- Bottom left ear -->
-    <polygon points="-240,82 -195,50 -150,82" fill="#d4af37"/>
-    <!-- Bottom right ear -->
-    <polygon points="240,82 195,50 150,82" fill="#d4af37"/>
-    <!-- Bottom center triangle -->
-    <polygon points="0,80 -40,50 40,50" fill="#d4af37"/>
-
-    <!-- Subtle inner highlight stroke -->
-    <ellipse cx="0" cy="30" rx="240" ry="68" fill="none" stroke="#f5d060" stroke-width="1.2" opacity="0.5"/>
-  </g>
-</svg>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&text=🦇&fontSize=100&fontColor=d4af37&fontAlignY=78&animation=fadeIn"/>
 </div>
+
 
 <br/>
 
@@ -312,24 +259,8 @@ print(me.rise())
 
 <br/><br/>
 
-<!-- FADED GHOST BAT SYMBOL -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="180" opacity="0.12">
-  <rect width="800" height="300" fill="#000000"/>
-  <g transform="translate(400,155)">
-    <ellipse cx="0" cy="30" rx="240" ry="68" fill="#d4af37"/>
-    <ellipse cx="0" cy="30" rx="178" ry="50" fill="#000000"/>
-    <ellipse cx="-175" cy="-18" rx="80" ry="100" fill="#d4af37"/>
-    <ellipse cx="-175" cy="-18" rx="53"  ry="76"  fill="#000000"/>
-    <ellipse cx="175"  cy="-18" rx="80" ry="100" fill="#d4af37"/>
-    <ellipse cx="175"  cy="-18" rx="53"  ry="76"  fill="#000000"/>
-    <polygon points="0,-52 -28,18 28,18" fill="#000000"/>
-    <ellipse cx="-105" cy="46" rx="62" ry="30" fill="#000000" transform="rotate(-14,-105,46)"/>
-    <ellipse cx="105"  cy="46" rx="62" ry="30" fill="#000000" transform="rotate(14,105,46)"/>
-    <polygon points="-240,82 -195,50 -150,82" fill="#d4af37"/>
-    <polygon points="240,82 195,50 150,82" fill="#d4af37"/>
-    <polygon points="0,80 -40,50 40,50" fill="#d4af37"/>
-  </g>
-</svg>
+<!-- ghost bat -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=60&text=🦇&fontSize=48&fontColor=d4af37&fontAlignY=78&animation=fadeIn" width="200" opacity="0.3"/>
 
 <br/>
 
