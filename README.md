@@ -1,17 +1,14 @@
-<!-- ============================================================ -->
-<!--        PODILAPU MUKESH RAJU  ·  GITHUB PROFILE             -->
-<!--                 I  A M  B A T M A N                        -->
-<!-- ============================================================ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!--          P O D I L A P U   M U K E S H   R A J U               -->
+<!--                    I   A M   B A T M A N                        -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
 <div align="center">
 
-<!-- TOP GOLD BORDER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=d4af37&height=4"/>
 
-<!-- HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:040200,50:0a0700,80:040200,100:000000&height=280&section=header&text=PODILAPU%20MUKESH%20RAJU&fontSize=55&fontColor=d4af37&animation=fadeIn&fontAlignY=45&desc=Developer%20%C2%B7%20AI%2FML%20Engineer%20in%20the%20Making%20%C2%B7%202nd%20Year%20Integrated%20M.Tech%20CSE&descAlignY=68&descSize=15&descColor=7a6520&stroke=d4af37&strokeWidth=1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,15:030200,40:0a0700,65:030200,100:000000&height=320&section=header&text=PODILAPU%20MUKESH%20RAJU&fontSize=56&fontColor=d4af37&animation=fadeIn&fontAlignY=42&desc=Developer%20%20%C2%B7%20%20AI%2FML%20Engineer%20in%20the%20Making%20%20%C2%B7%20%20Integrated%20M.Tech%20CSE&descAlignY=64&descSize=15&descColor=7a6520&stroke=d4af37&strokeWidth=1"/>
 
-<!-- BOTTOM HERO GOLD LINE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=d4af37&height=4"/>
 
 </div>
@@ -20,43 +17,39 @@
 
 <div align="center">
 
-<!-- BATMAN LOGO — real hosted image, loads on GitHub -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Batman_double_stroke.svg/600px-Batman_double_stroke.svg.png" width="260" alt="Batman"/>
+<!-- 🦇 BATMAN LOGO — self-hosted in your repo, 100% loads -->
+<!-- STEP: Upload batman.svg to your repo root, then this renders perfectly -->
+<img src="./batman.svg" width="380" alt="Batman"/>
 
 <br/><br/>
 
-<!-- FULL-WIDTH GOLD RULE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,10:d4af37,90:d4af37,100:000000&height=1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,5:d4af37,95:d4af37,100:000000&height=1"/>
 
 <br/>
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2800&pause=900&color=D4AF37&center=true&vCenter=true&width=780&height=40&lines=I+am+vengeance.+I+am+the+night.+I+am+a+Developer.;2nd+Year+Integrated+M.Tech+CSE+%7C+India+%F0%9F%87%AE%F0%9F%87%B3;Not+who+I+am+underneath+%E2%80%94+but+what+I+BUILD.;Python+%7C+Java+%7C+JavaScript+%7C+React+%7C+AI%2FML;The+night+is+darkest+before+the+code+deploys.;Learning+AI+%2F+ML+%7C+Becoming+unstoppable." alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2800&pause=1000&color=D4AF37&center=true&vCenter=true&width=800&height=42&lines=I+am+vengeance.+I+am+the+night.+I+am+a+Developer.;2nd+Year+Integrated+M.Tech+CSE+%7C+India+%F0%9F%87%AE%F0%9F%87%B3;Not+who+I+am+underneath+%E2%80%94+but+what+I+BUILD.;Python+%7C+Java+%7C+JavaScript+%7C+React+%7C+AI%2FML;The+night+is+darkest+before+the+code+deploys.;Learning+AI+%2F+ML+%7C+Becoming+unstoppable." alt="typing"/>
 
 <br/><br/>
 
-<!-- BADGES -->
 ![Profile Views](https://komarev.com/ghpvc/?username=mukeshraju2006&color=d4af37&style=for-the-badge&label=PROFILE+VIEWS&labelColor=000000)
 [![Followers](https://img.shields.io/github/followers/mukeshraju2006?label=FOLLOWERS&style=for-the-badge&color=d4af37&labelColor=000000)](https://github.com/mukeshraju2006)
 ![Status](https://img.shields.io/badge/STATUS-ALWAYS%20BUILDING-d4af37?style=for-the-badge&labelColor=000000)
-![Location](https://img.shields.io/badge/INDIA-%F0%9F%87%AE%F0%9F%87%B3-d4af37?style=for-the-badge&labelColor=000000)
+![Origin](https://img.shields.io/badge/INDIA-%F0%9F%87%AE%F0%9F%87%B3-d4af37?style=for-the-badge&labelColor=000000)
 
 </div>
 
 <br/>
 
-<!-- ============================================================ -->
-<!--  SECTION HEADING TEMPLATE — full-width solid gold bar       -->
-<!-- ============================================================ -->
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=d4af37&height=42&text=%E2%97%88%20%20%20IDENTITY%20%20%20%E2%97%88&fontSize=15&fontColor=000000&fontAlignY=65&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=d4af37&height=46&text=%E2%97%88+%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94+IDENTITY+%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94+%E2%97%88&fontSize=14&fontColor=000000&fontAlignY=65"/>
 
 <br/>
 
 ```python
 #!/usr/bin/env python3
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-#   mukeshraju2006  ·  System Boot  ·  Version: DARK KNIGHT
+#   mukeshraju2006  ·  System Boot  ·  DARK KNIGHT EDITION
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 class MukeshRaju:
@@ -95,17 +88,17 @@ print(me.rise())
 
 <br/>
 
-<!-- ============================================================ -->
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=d4af37&height=42&text=%E2%97%88%20%20%20THE%20UTILITY%20BELT%20%20%20%E2%97%88&fontSize=15&fontColor=000000&fontAlignY=65&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=d4af37&height=46&text=%E2%97%88+%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94+THE+UTILITY+BELT+%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94+%E2%97%88&fontSize=14&fontColor=000000&fontAlignY=65"/>
 
 <br/>
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="12">
+<table border="0" cellspacing="0" cellpadding="14">
 <tr>
-<td align="center">
+<td align="center" valign="top">
 
 **`· LANGUAGES ·`**
 
@@ -114,7 +107,7 @@ print(me.rise())
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=d4af37)
 
 </td>
-<td align="center">
+<td align="center" valign="top">
 
 **`· FRONTEND ·`**
 
@@ -123,7 +116,7 @@ print(me.rise())
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=d4af37)
 
 </td>
-<td align="center">
+<td align="center" valign="top">
 
 **`· TOOLS ·`**
 
@@ -136,9 +129,7 @@ print(me.rise())
 </tr>
 </table>
 
-<br/>
-
-**`· AI / ML · SECRET WEAPON · LOADING ·`**
+**`· AI / ML · THE SECRET WEAPON · LOADING ·`**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=d4af37)
 ![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=d4af37)
@@ -149,9 +140,9 @@ print(me.rise())
 
 <br/>
 
-<!-- ============================================================ -->
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=d4af37&height=42&text=%E2%97%88%20%20%20INTELLIGENCE%20DASHBOARD%20%20%20%E2%97%88&fontSize=15&fontColor=000000&fontAlignY=65&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=d4af37&height=46&text=%E2%97%88+%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94+INTELLIGENCE+DASHBOARD+%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94+%E2%97%88&fontSize=14&fontColor=000000&fontAlignY=65"/>
 
 <br/>
 
@@ -162,17 +153,17 @@ print(me.rise())
 
 <br/><br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshraju2006&layout=donut&hide_border=true&bg_color=000000&title_color=d4af37&text_color=888866"/>
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshraju2006&layout=donut&hide_border=true&bg_color=000000&title_color=d4af37&text_color=888866"/>
 &nbsp;&nbsp;
-<img width="53%" src="https://github-readme-activity-graph.vercel.app/graph?username=mukeshraju2006&bg_color=000000&color=d4af37&line=2a2000&point=d4af37&area=true&hide_border=true&area_color=0d0900"/>
+<img width="54%" src="https://github-readme-activity-graph.vercel.app/graph?username=mukeshraju2006&bg_color=000000&color=d4af37&line=2a2000&point=d4af37&area=true&hide_border=true&area_color=0d0900"/>
 
 </div>
 
 <br/>
 
-<!-- ============================================================ -->
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=d4af37&height=42&text=%E2%97%88%20%20%20HONOURS%20%20%20%E2%97%88&fontSize=15&fontColor=000000&fontAlignY=65&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=d4af37&height=46&text=%E2%97%88+%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94+HONOURS+%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94+%E2%97%88&fontSize=14&fontColor=000000&fontAlignY=65"/>
 
 <br/>
 
@@ -182,15 +173,15 @@ print(me.rise())
 
 <br/>
 
-<!-- ============================================================ -->
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=d4af37&height=42&text=%E2%97%88%20%20%20CASE%20FILES%20·%20PROJECTS%20%20%20%E2%97%88&fontSize=15&fontColor=000000&fontAlignY=65&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=d4af37&height=46&text=%E2%97%88+%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94+CASE+FILES+%2F+PROJECTS+%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94+%E2%97%88&fontSize=14&fontColor=000000&fontAlignY=65"/>
 
 <br/>
 
 <div align="center">
 
-[![](https://img.shields.io/badge/OPEN%20ALL%20CASE%20FILES-000000?style=for-the-badge&logo=github&logoColor=d4af37)](https://github.com/mukeshraju2006?tab=repositories)
+[![](https://img.shields.io/badge/%E2%97%88%20%20OPEN%20ALL%20CASE%20FILES%20%20%E2%97%88-000000?style=for-the-badge&logo=github&logoColor=d4af37)](https://github.com/mukeshraju2006?tab=repositories)
 
 <br/>
 
@@ -200,9 +191,9 @@ print(me.rise())
 
 <br/>
 
-<!-- ============================================================ -->
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=d4af37&height=42&text=%E2%97%88%20%20%20THE%20RISE%20%20%20%E2%97%88&fontSize=15&fontColor=000000&fontAlignY=65&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=d4af37&height=46&text=%E2%97%88+%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94+THE+RISE+%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94+%E2%97%88&fontSize=14&fontColor=000000&fontAlignY=65"/>
 
 <br/>
 
@@ -228,9 +219,9 @@ print(me.rise())
 
 <br/>
 
-<!-- ============================================================ -->
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=d4af37&height=42&text=%E2%97%88%20%20%20SIGNAL%20·%20FIND%20ME%20%20%20%E2%97%88&fontSize=15&fontColor=000000&fontAlignY=65&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=d4af37&height=46&text=%E2%97%88+%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94+SIGNAL+%2F+FIND+ME+%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94+%E2%97%88&fontSize=14&fontColor=000000&fontAlignY=65"/>
 
 <br/>
 
@@ -243,31 +234,25 @@ print(me.rise())
 
 <br/>
 
-<img width="95%" src="https://ghchart.rshah.org/d4af37/mukeshraju2006" alt="GitHub Contribution Chart"/>
+<img width="95%" src="https://ghchart.rshah.org/d4af37/mukeshraju2006" alt="Contribution Chart"/>
 
 </div>
 
 <br/><br/>
 
-<!-- ============================================================ -->
-<!-- FOOTER -->
-<!-- ============================================================ -->
+---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=d4af37&height=2"/>
-
-<br/>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Batman_double_stroke.svg/300px-Batman_double_stroke.svg.png" width="100" alt="Batman" style="opacity:0.2"/>
+<img src="./batman.svg" width="140" alt="Batman"/>
 
 <br/>
 
 ```
-        "Why do we fall?"
+        " Why do we fall? "
         — So that we can learn to pick ourselves up.
 
-                                        — Alfred Pennyworth
+                                     — Alfred Pennyworth
 ```
 
 <br/>
@@ -276,12 +261,10 @@ print(me.rise())
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:0d0900,65:0d0900,100:000000&height=180&section=footer&text=I%20am%20vengeance.%20I%20am%20the%20night.%20I%20am%20mukeshraju2006.&fontSize=16&fontColor=d4af37&animation=twinkling&fontAlignY=60&desc=Forged%20in%20darkness.%20Built%20to%20last.&descSize=11&descColor=4a3a00&descAlignY=78"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0d0900,60:0d0900,100:000000&height=200&section=footer&text=I%20am%20vengeance.%20I%20am%20the%20night.%20I%20am%20mukeshraju2006.&fontSize=17&fontColor=d4af37&animation=twinkling&fontAlignY=60&desc=Forged%20in%20darkness.%20Built%20to%20last.&descSize=12&descColor=5a4a00&descAlignY=78"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=d4af37&height=4"/>
 
 </div>
 
-<!-- ============================================================ -->
-<!--        Forged in darkness  ·  Podilapu Mukesh Raju          -->
-<!-- ============================================================ -->
+<!-- ▓▓▓  Forged in darkness  ·  Podilapu Mukesh Raju  ▓▓▓ -->
