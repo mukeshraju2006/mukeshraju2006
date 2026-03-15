@@ -1,15 +1,18 @@
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-<!--         P O D I L A P U   M U K E S H   R A J U            -->
-<!--               T H E   D A R K   K N I G H T                -->
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!-- ████████████████████████████████████████████████████████████████ -->
+<!--           P O D I L A P U   M U K E S H   R A J U              -->
+<!--                  T H E   D A R K   K N I G H T                 -->
+<!-- ████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=4"/>
+<!-- TOP FIRE LINE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,20:330000,50:8b0000,80:330000,100:000000&height=3"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:0d0000,50:1a0000,80:0d0000,100:000000&height=320&section=header&text=PODILAPU%20MUKESH%20RAJU&fontSize=56&fontColor=cc2200&animation=fadeIn&fontAlignY=42&desc=Developer%20%20%C2%B7%20%20AI%2FML%20Engineer%20in%20the%20Making%20%20%C2%B7%20%20Integrated%20M.Tech%20CSE&descAlignY=64&descSize=15&descColor=5a1010&stroke=8b0000&strokeWidth=1"/>
+<!-- HERO — deep crimson dark venom -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,15:0d0000,40:1a0000,60:120000,85:0d0000,100:000000&height=300&section=header&text=PODILAPU%20MUKESH%20RAJU&fontSize=58&fontColor=cc2200&animation=fadeIn&fontAlignY=40&desc=Developer%20%20%C2%B7%20%20AI%2FML%20Engineer%20in%20the%20Making%20%20%C2%B7%20%20Integrated%20M.Tech%20CSE&descAlignY=62&descSize=15&descColor=4a1010&stroke=660000&strokeWidth=1"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=4"/>
+<!-- HERO FADES INTO BAT LOGO SEAMLESSLY -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,20:330000,50:8b0000,80:330000,100:000000&height=3"/>
 
 </div>
 
@@ -17,14 +20,10 @@
 
 <div align="center">
 
-<img src="./batman.svg" width="480" alt="The Dark Knight"/>
+<!-- MAIN BAT LOGO — fades into black below -->
+<img src="./batman.svg" width="100%" alt=""/>
 
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,5:8b0000,95:8b0000,100:000000&height=1"/>
-
-<br/>
-
+<!-- TYPING — sits right below the bat, feels connected -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2800&pause=1000&color=CC2200&center=true&vCenter=true&width=800&height=42&lines=I+am+vengeance.+I+am+the+night.+I+am+a+Developer.;2nd+Year+Integrated+M.Tech+CSE+%7C+India+%F0%9F%87%AE%F0%9F%87%B3;Not+who+I+am+underneath+%E2%80%94+but+what+I+BUILD.;Python+%7C+Java+%7C+JavaScript+%7C+React+%7C+AI%2FML;The+night+is+darkest+before+the+code+deploys.;The+fire+rises.+%F0%9F%94%A5" alt="typing"/>
 
 <br/><br/>
@@ -242,7 +241,8 @@ print(me.rise())
 
 <div align="center">
 
-<img src="./batman.svg" width="200" alt="The Dark Knight"/>
+<!-- FOOTER BAT — fades INTO black from top, dissolves completely -->
+<img src="./batman_fade.svg" width="100%" alt=""/>
 
 <br/>
 
@@ -259,10 +259,10 @@ print(me.rise())
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:1a0000,60:1a0000,100:000000&height=200&section=footer&text=I%20am%20vengeance.%20I%20am%20the%20night.%20I%20am%20mukeshraju2006.&fontSize=17&fontColor=cc2200&animation=twinkling&fontAlignY=60&desc=The%20fire%20rises.&descSize=13&descColor=5a1010&descAlignY=78"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:1a0000,50:1a0000,75:0d0000,100:000000&height=200&section=footer&text=I%20am%20vengeance.%20I%20am%20the%20night.%20I%20am%20mukeshraju2006.&fontSize=17&fontColor=cc2200&animation=twinkling&fontAlignY=58&desc=The%20fire%20rises.&descSize=13&descColor=550000&descAlignY=76"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,20:330000,50:8b0000,80:330000,100:000000&height=3"/>
 
 </div>
 
-<!-- ▓▓▓  The Dark Knight  ·  Podilapu Mukesh Raju  ▓▓▓ -->
+<!-- ████  The Dark Knight  ·  Podilapu Mukesh Raju  ████ -->
