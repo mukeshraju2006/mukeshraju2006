@@ -85,40 +85,51 @@ print(me.rise())
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="14">
+<table>
 <tr>
-<td align="center" valign="top">
+<td align="center" width="33%">
 
-**`· LANGUAGES ·`**
+**`— LANGUAGES —`**
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=cc2200)
+
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=cc2200)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=cc2200)
 
 </td>
-<td align="center" valign="top">
+<td align="center" width="33%">
 
-**`· FRONTEND ·`**
+**`— FRONTEND —`**
 
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=cc2200)
+
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=cc2200)
+
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=cc2200)
 
 </td>
-<td align="center" valign="top">
+<td align="center" width="33%">
 
-**`· TOOLS ·`**
+**`— TOOLS —`**
 
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=cc2200)
+
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=cc2200)
+
 ![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=cc2200)
+
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=cc2200)
 
 </td>
 </tr>
 </table>
 
-**`· AI / ML · THE SECRET WEAPON · THE FIRE RISES ·`**
+<br/>
+
+**`— AI / ML — THE SECRET WEAPON — THE FIRE RISES —`**
+
+<br/>
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=cc2200)
 ![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=cc2200)
