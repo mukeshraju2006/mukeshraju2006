@@ -35,7 +35,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=18&duration=3500&pause=1200&color=D4AF37&center=true&vCenter=true&width=750&height=45&lines=Developer+%7C+AI%2FML+Engineer+in+the+Making;2nd+Year+Integrated+M.Tech+CSE;I+am+vengeance.+I+am+the+night.+I+am+a+Coder.;Darkness+is+not+the+absence+of+light+—+it+is+focus.;The+night+is+darkest+before+the+AI+deploys." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3500&pause=1200&color=D4AF37&center=true&vCenter=true&width=750&height=45&lines=Developer+%7C+AI%2FML+Engineer+in+the+Making;2nd+Year+Integrated+M.Tech+CSE;I+am+vengeance.+I+am+the+night.+I+am+a+Coder.;Darkness+is+not+the+absence+of+light+-+it+is+focus.;The+night+is+darkest+before+the+AI+deploys." alt="Typing SVG" />
 
 <br/><br/>
 
