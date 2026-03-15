@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Mukesh+%F0%9F%91%8B;Developer+%7C+AIML+Enthusiast+%F0%9F%A4%96;Always+learning%2C+always+building+%F0%9F%9A%80;Turning+coffee+into+code+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Mukesh+%F0%9F%91%8B;2nd+Year+Integrated+M.Tech+CSE+%F0%9F%8E%93;Developer+%7C+AIML+Enthusiast+%F0%9F%A4%96;Always+learning%2C+always+building+%F0%9F%9A%80;Turning+coffee+into+code+%E2%98%95" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -26,7 +26,8 @@ class MukeshRaju:
         self.name       = "Podilapu Mukesh Raju"
         self.username   = "mukeshraju2006"
         self.location   = "India 🇮🇳"
-        self.role       = "Developer → AI/ML Engineer (in progress 🔥)"
+        self.education  = "2nd Year Integrated M.Tech CSE 🎓"
+        self.role       = "Student Developer → AI/ML Engineer (in progress 🔥)"
         self.languages  = ["Python", "Java", "JavaScript"]
         self.stack      = ["HTML", "CSS", "React.js"]
         self.learning   = ["Machine Learning", "Deep Learning", "AI Systems"]
