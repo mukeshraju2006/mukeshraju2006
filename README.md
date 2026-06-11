@@ -10,7 +10,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mukeshraju2006)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mukeshraju2006@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/mukeshrajupodilapu)
-![Profile Views](https://komarev.com/ghpvc/?username=mukeshraju2006&style=flat-square&color=blue&label=Profile+Views)
 
 </div>
 
@@ -51,7 +50,6 @@ I'm a Computer Science student on a 5-year Integrated M.Tech journey, currently 
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
@@ -62,11 +60,7 @@ I'm a Computer Science student on a 5-year Integrated M.Tech journey, currently 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mukeshraju2006&show_icons=true&hide_border=true&count_private=true&theme=default"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mukeshraju2006&hide_border=true"/>
-
-<br/><br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshraju2006&layout=donut&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshraju2006&layout=compact&hide_border=true"/>
 
 </div>
 
@@ -81,22 +75,6 @@ I'm a Computer Science student on a 5-year Integrated M.Tech journey, currently 
 | ⚪ Deep Dive | Deep Learning & LLMs | Up Next |
 | ⚪ Research | AI Research & Systems | Ahead |
 | ⚪ Impact | Build AI for Billions | The Goal |
-
----
-
-## Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mukeshraju2006&no-frame=true&no-bg=true&column=7&margin-w=6"/>
-</div>
-
----
-
-## Contribution Graph
-
-<div align="center">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mukeshraju2006&bg_color=ffffff&color=0969DA&line=0969DA&point=0969DA&area=true&hide_border=true"/>
-</div>
 
 ---
 
