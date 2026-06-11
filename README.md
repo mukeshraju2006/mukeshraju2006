@@ -1,242 +1,109 @@
-<!-- ████████████████████████████████████████████████████████████████ -->
-<!--           P O D I L A P U   M U K E S H   R A J U              -->
-<!--                  T H E   D A R K   K N I G H T                 -->
-<!-- ████████████████████████████████████████████████████████████████ -->
-
 <div align="center">
 
-<!-- TOP FIRE LINE -->
-<!-- HERO: bat logo IS the background, name sits on top -->
-<img width="100%" src="./hero.svg" alt="Podilapu Mukesh Raju"/>
+# Hi, I'm Mukesh Raju 👋
+
+**Student Developer → AI/ML Engineer**
+
+2nd Year Integrated M.Tech CSE · VIT-AP University · India 🇮🇳
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukesh-raju-podilapu-8432692b6)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mukeshraju2006)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mukeshraju2006@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/mukeshrajupodilapu)
+![Profile Views](https://komarev.com/ghpvc/?username=mukeshraju2006&style=flat-square&color=blue&label=Profile+Views)
 
 </div>
 
-<br/>
+---
+
+## About Me
+
+I'm a Computer Science student on a 5-year Integrated M.Tech journey, currently in my 2nd year. I enjoy building things — from web apps to AI systems — and I'm working my way toward becoming an AI/ML engineer.
+
+- 🎓 Integrated M.Tech CSE at VIT-AP University
+- 🤖 Learning Machine Learning, Deep Learning, and AI Systems
+- 🌐 Building with Python, Java, JavaScript, and React
+- 🎯 Goal: Build AI that changes lives
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+**AI / ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-<!-- TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2800&pause=1000&color=CC2200&center=true&vCenter=true&width=800&height=42&lines=I+am+vengeance.+I+am+the+night.+I+am+a+Developer.;2nd+Year+Integrated+M.Tech+CSE+%7C+India+%F0%9F%87%AE%F0%9F%87%B3;Not+who+I+am+underneath+%E2%80%94+but+what+I+BUILD.;Python+%7C+Java+%7C+JavaScript+%7C+React+%7C+AI%2FML;The+night+is+darkest+before+the+code+deploys.;The+fire+rises.+%F0%9F%94%A5" alt="typing"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mukeshraju2006&show_icons=true&hide_border=true&count_private=true&theme=default"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mukeshraju2006&hide_border=true"/>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mukeshraju2006&color=cc2200&style=for-the-badge&label=PROFILE+VIEWS&labelColor=000000)
-[![Followers](https://img.shields.io/github/followers/mukeshraju2006?label=FOLLOWERS&style=for-the-badge&color=cc2200&labelColor=000000)](https://github.com/mukeshraju2006)
-![Status](https://img.shields.io/badge/STATUS-ALWAYS%20BUILDING-cc2200?style=for-the-badge&labelColor=000000)
-![Origin](https://img.shields.io/badge/INDIA-%F0%9F%87%AE%F0%9F%87%B3-cc2200?style=for-the-badge&labelColor=000000)
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshraju2006&layout=donut&hide_border=true"/>
 
 </div>
 
-<br/>
+---
+
+## My Journey
+
+| Stage | Focus | Status |
+|-------|-------|--------|
+| 🟢 Foundation | Web Development & Programming | Done |
+| 🔵 Ascent | Machine Learning & AI | In Progress |
+| ⚪ Deep Dive | Deep Learning & LLMs | Up Next |
+| ⚪ Research | AI Research & Systems | Ahead |
+| ⚪ Impact | Build AI for Billions | The Goal |
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=46&text=%E2%97%88+%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94+IDENTITY+%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94+%E2%97%88&fontSize=14&fontColor=000000&fontAlignY=65"/>
-
-<br/>
-
-```python
-#!/usr/bin/env python3
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-#   mukeshraju2006
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-class MukeshRaju:
-
-    IDENTITY = {
-        "name"      : "Podilapu Mukesh Raju",
-        "alias"     : "mukeshraju2006",
-        "location"  : "India 🇮🇳",
-        "education" : "Integrated M.Tech CSE — Year 2 of 5 🎓",
-        "role"      : "Student Developer → AI/ML Engineer 🤖",
-    }
-
-    TECH = {
-        "languages" : ["Python 🐍", "Java ☕", "JavaScript ⚡"],
-        "frontend"  : ["HTML5", "CSS3", "React.js ⚛️"],
-        "learning"  : ["Machine Learning 🤖", "Deep Learning 🧠",
-                       "Data Science 📊", "AI Systems 🌐"],
-        "tools"     : ["Git", "GitHub", "VS Code", "Linux"],
-    }
-
-    MINDSET = {
-        "goal"      : "Build AI that changes lives 🌍",
-        "mantra"    : "It is not who I am underneath, but what I "
-                      "BUILD that defines me.",
-        "weakness"  : None,
-        "coffee"    : float("inf"),
-    }
-
-    def rise(self):
-        return "Why do we fall? So we can learn to pick ourselves up."
-
-me = MukeshRaju()
-print(me.rise())
-# → Why do we fall? So we can learn to pick ourselves up.
-```
-
-<br/>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=46&text=%E2%97%88+%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94+THE+UTILITY+BELT+%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94+%E2%97%88&fontSize=14&fontColor=000000&fontAlignY=65"/>
-
-<br/>
+## Trophies
 
 <div align="center">
-
-### 🔴 Languages that i speak
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=cc2200)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=cc2200)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=cc2200)
-
-### 🔴 The Batcave Interface — Frontend
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=cc2200)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=cc2200)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=cc2200)
-
-### 🔴 AI / ML — The Secret Weapon Loading
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=cc2200)
-![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=cc2200)
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=cc2200)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=cc2200)
-
-### 🔴 Gadgets & Gear — Tools
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=cc2200)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=cc2200)
-![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=cc2200)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=cc2200)
-
+<img src="https://github-profile-trophy.vercel.app/?username=mukeshraju2006&no-frame=true&no-bg=true&column=7&margin-w=6"/>
 </div>
-
-<br/>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=46&text=%E2%97%88+%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94+INTELLIGENCE+DASHBOARD+%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94+%E2%97%88&fontSize=14&fontColor=000000&fontAlignY=65"/>
-
-<br/>
+## Contribution Graph
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mukeshraju2006&show_icons=true&hide_border=true&count_private=true&bg_color=000000&title_color=cc2200&icon_color=cc2200&text_color=884444&ring_color=8b0000"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mukeshraju2006&hide_border=true&background=000000&ring=8b0000&fire=cc2200&currStreakLabel=cc2200&sideLabels=884444&dates=443333&currStreakNum=ff4400&sideNums=ff4400"/>
-
-<br/><br/>
-
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshraju2006&layout=donut&hide_border=true&bg_color=000000&title_color=cc2200&text_color=884444"/>
-&nbsp;&nbsp;
-<img width="54%" src="https://github-readme-activity-graph.vercel.app/graph?username=mukeshraju2006&bg_color=000000&color=cc2200&line=3a0000&point=cc2200&area=true&hide_border=true&area_color=1a0000"/>
-
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mukeshraju2006&bg_color=ffffff&color=0969DA&line=0969DA&point=0969DA&area=true&hide_border=true"/>
 </div>
-
-<br/>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=46&text=%E2%97%88+%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94+HONOURS+%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94+%E2%97%88&fontSize=14&fontColor=000000&fontAlignY=65"/>
-
-<br/>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mukeshraju2006&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6"/>
-</div>
-
-<br/>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=46&text=%E2%97%88+%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94+CASE+FILES+%2F+PROJECTS+%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94+%E2%97%88&fontSize=14&fontColor=000000&fontAlignY=65"/>
-
-<br/>
-
-<div align="center">
-
-[![](https://img.shields.io/badge/%E2%97%88%20%20OPEN%20ALL%20CASE%20FILES%20%20%E2%97%88-000000?style=for-the-badge&logo=github&logoColor=cc2200)](https://github.com/mukeshraju2006?tab=repositories)
-
-<br/>
-
-<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=mukeshraju2006&repo=mukeshraju2006&hide_border=true&bg_color=000000&title_color=cc2200&icon_color=cc2200&text_color=884444"/>
-
-</div>
-
-<br/>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=46&text=%E2%97%88+%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94+THE+RISE+%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94+%E2%97%88&fontSize=14&fontColor=000000&fontAlignY=65"/>
-
-<br/>
-
-<div align="center">
-
-```
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║                                                                  ║
-  ║   ◈  ORIGIN     ████████████░░░░░░░░  Developer — Web + Code    ║
-  ║                                                                  ║
-  ║   ◈  ASCENT     ░░░░████████████░░░░  Machine Learning & AI     ║
-  ║                                                                  ║
-  ║   ◈  THE NIGHT  ░░░░░░░░████████████  Deep Learning & LLMs      ║
-  ║                                                                  ║
-  ║   ◈  LEGEND     ░░░░░░░░░░░░░░██████  AI Research & Systems     ║
-  ║                                                                  ║
-  ║   ◈  INFINITE   ░░░░░░░░░░░░░░░░████  Build AI for Billions     ║
-  ║                                                                  ║
-  ╚══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<br/>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=46&text=%E2%97%88+%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94+SIGNAL+%2F+FIND+ME+%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94+%E2%97%88&fontSize=14&fontColor=000000&fontAlignY=65"/>
-
-<br/>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=cc2200)](https://www.linkedin.com/in/mukesh-raju-podilapu-8432692b6)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=cc2200)](https://instagram.com/mukeshrajupodilapu)
-[![Gmail](https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=cc2200)](mailto:mukeshraju2006@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=cc2200)](https://github.com/mukeshraju2006)
-
-<br/>
-
-<img width="95%" src="https://ghchart.rshah.org/cc2200/mukeshraju2006" alt="Contribution Chart"/>
-
-</div>
-
-<br/><br/>
 
 ---
 
 <div align="center">
 
-<!-- FOOTER BAT — fades INTO black from top, dissolves completely -->
-<img src="./batman_fade.svg" width="100%" alt=""/>
+*"Why do we fall? So we can learn to pick ourselves up."*
 
-<br/>
-
-```
-        " Why do we fall? "
-        — So that we can learn to pick ourselves up.
-
-                                     — Alfred Pennyworth
-```
-
-<br/>
-
-**`🔥  If my work helped you, a star means everything.  🔥`**
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:1a0000,50:1a0000,75:0d0000,100:000000&height=200&section=footer&text=I%20am%20vengeance.%20I%20am%20the%20night.%20I%20am%20mukeshraju2006.&fontSize=17&fontColor=cc2200&animation=twinkling&fontAlignY=58&desc=The%20fire%20rises.&descSize=13&descColor=550000&descAlignY=76"/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,20:330000,50:8b0000,80:330000,100:000000&height=3"/>
+⭐ If my work helped you, a star means everything.
 
 </div>
-
-<!-- ████  The Dark Knight  ·  Podilapu Mukesh Raju  ████ -->
