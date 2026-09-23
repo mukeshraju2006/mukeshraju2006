@@ -37,7 +37,10 @@ for r in rs:
  except:f=""
  for k,v in rules.items():
   if any(p in f for p in v) or k==r.get("language"):tech[k]+=1
-con={}; days=[]
+con={}; days=[]; merged_prs=[]
+try:
+ merged_prs=g(f"/search/issues?q=is%3Apr+is%3Amerged+author%3A{U}&sort=updated&order=desc&per_page=20").get("items",[])
+except: merged_prs=[]
 try:
  q='query($l:String!){user(login:$l){contributionsCollection{contributionCalendar{weeks{contributionDays{date contributionCount}}}}}}'
  b=json.dumps({"query":q,"variables":{"l":U}}).encode(); req=urllib.request.Request("https://api.github.com/graphql",data=b,headers={"Authorization":"Bearer "+T,"Content-Type":"application/json"})
@@ -45,8 +48,6 @@ try:
  days=[d for w in con.get("contributionCalendar",{}).get("weeks",[]) for d in w["contributionDays"]]
 except:pass
 days=sorted(days,key=lambda x:x["date"])[-91:]; total=sum(x["contributionCount"] for x in days); active=sum(x["contributionCount"]>0 for x in days)
-cells=["·" if x["contributionCount"]==0 else "▪" if x["contributionCount"]<3 else "■" if x["contributionCount"]<6 else "█" for x in days]
-matrix="\n".join("".join(cells[i:i+13]) for i in range(0,len(cells),13))
 try: starred=pages(f"/users/{U}/starred")
 except:starred=[]
 releases=[]
@@ -75,9 +76,10 @@ if pinned:
  L+=["","## PINNED ON GITHUB","","| Repository | Description | Stars | Forks |","|---|---|---:|---:|"]
  for r in pinned:L.append(f"| [{r['name']}]({r['url']}) | {(r.get('description') or '—').replace('|','\\|')} | {r.get('stargazerCount',0)} | {r.get('forkCount',0)} |")
 L+=["","## STARRED / RESEARCH RADAR",""]
-for r in starred[:20]:
+my_starred=[r for r in starred if r.get("owner",{}).get("login")==U or r.get("full_name","").startswith(U+"/")]
+for r in my_starred[:20]:
  f=r.get("full_name","");L.append(f"- [{f}](https://github.com/{f}) · {r.get('language') or '—'} · ★ {r.get('stargazers_count',0)}")
-if not starred:L.append("_No starred repositories returned by GitHub._")
+if not my_starred:L.append("_None of my repositories are currently starred._")
 L+=["","## RELEASE HISTORY",""]
 for x,n in releases[:20]:L.append(f"- **{(x.get('published_at') or x.get('created_at') or '')[:10]}** · [{n}](https://github.com/{U}/{n}) · {x.get('tag_name') or x.get('name') or 'release'}")
 if not releases:L.append("_No published releases detected across public repositories._")
