@@ -22,6 +22,115 @@ I like understanding what happens underneath the abstraction, then building enou
 | Metric | Count |
 |---|---:|
 | GitHub contributions · last 91 days | **150** |
+| Private contributions · GitHub calendar | **tracked automatically** |
+| Active contribution days | **29** |
+
+### Open Source Contributions
+
+#### PRs merged in other repositories
+
+| Repository | Merged PRs |
+|---|---:|
+| [divyanshgiri-sudo/NullChapter_Backend](https://github.com/divyanshgiri-sudo/NullChapter_Backend) | **3** |
+
+#### PRs opened in other repositories but not merged
+
+| Repository | Unmerged PRs |
+|---|---:|
+| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | **1** |
+| [divyanshgiri-sudo/NullChapter_Backend](https://github.com/divyanshgiri-sudo/NullChapter_Backend) | **1** |
+
+## TECHNOLOGY FOOTPRINT
+
+| Technology | Repositories | Footprint |
+|---|---:|---|
+| TypeScript | 6 | ████████████ |
+| JavaScript | 6 | ████████████ |
+| Python | 5 | ██████████░░ |
+| React | 5 | ██████████░░ |
+| Next.js | 4 | ████████░░░░ |
+| PostgreSQL / SQL | 3 | ██████░░░░░░ |
+| FastAPI | 2 | ████░░░░░░░░ |
+| Java | 1 | ██░░░░░░░░░░ |
+| Prisma | 1 | ██░░░░░░░░░░ |
+
+## LANGUAGE FOOTPRINT
+
+| Language | Repositories | Byte share |
+|---|---:|---:|
+| Python | 5 | 76.1% |
+| TypeScript | 4 | 9.6% |
+| JavaScript | 6 | 7.3% |
+| Jupyter Notebook | 1 | 2.5% |
+| CSS | 6 | 2.3% |
+| PowerShell | 1 | 1.3% |
+| Shell | 1 | 0.7% |
+| HTML | 5 | 0.1% |
+| Mermaid | 1 | 0.0% |
+| Inno Setup | 1 | 0.0% |
+
+## FEATURED BUILDS
+
+| Project | Domain | Language | Stars |
+|---|---|---|---:|
+| [oryn](https://github.com/mukeshraju2006/oryn) | Software | Python | 1 |
+| [ARC](https://github.com/mukeshraju2006/ARC) | AI / ML | Python | 1 |
+| [ML_internship](https://github.com/mukeshraju2006/ML_internship) | AI / ML | Jupyter Notebook | 1 |
+
+## REPOSITORY PORTFOLIO
+
+| Repository | Domain | Language | Updated |
+|---|---|---|---|
+| [mukeshraju2006](https://github.com/mukeshraju2006/mukeshraju2006) | Software | Python | 2026-09-23 |
+| [null_chapter_website](https://github.com/mukeshraju2006/null_chapter_website) | Web | JavaScript | 2026-09-22 |
+| [oryn](https://github.com/mukeshraju2006/oryn) | Software | Python | 2026-09-21 |
+| [CodeCrew](https://github.com/mukeshraju2006/CodeCrew) | Web | JavaScript | 2026-09-07 |
+| [free-claude-code](https://github.com/mukeshraju2006/free-claude-code) | Software | Python | 2026-09-06 |
+| [ML_internship](https://github.com/mukeshraju2006/ML_internship) | AI / ML | Jupyter Notebook | 2026-08-31 |
+| [null_cal](https://github.com/mukeshraju2006/null_cal) | Software | TypeScript | 2026-08-30 |
+| [ARC](https://github.com/mukeshraju2006/ARC) | AI / ML | Python | 2026-07-12 |
+| [MediShare](https://github.com/mukeshraju2006/MediShare) | Software | TypeScript | 2026-01-28 |
+| [empowerHer](https://github.com/mukeshraju2006/empowerHer) | Software | TypeScript | 2026-01-25 |
+
+## PINNED ON GITHUB
+
+| Repository | Description | Stars | Forks |
+|---|---|---:|---:|
+| [CodeCrew](https://github.com/mukeshraju2006/CodeCrew) | CodeCrew website . This is a place where developers can share their ideas , find other developers to work on their ideas as a team, developers can create and manage their teams and application requests, also there is a chat option available for each team where the respective team members can chat. | 0 | 0 |
+| [ARC](https://github.com/mukeshraju2006/ARC) | AI engineering platform | 1 | 0 |
+| [ML_internship](https://github.com/mukeshraju2006/ML_internship) | flyrank ML internship | 1 | 0 |
+| [oryn](https://github.com/mukeshraju2006/oryn) | — | 1 | 0 |
+
+## STARRED REPOSITORIES
+
+Only repositories owned by **mukeshraju2006** are shown here, and only when they have received stars.
+
+| Repository | Stars |
+|---|---:|
+| [oryn](https://github.com/mukeshraju2006/oryn) | ★ 1 |
+| [ARC](https://github.com/mukeshraju2006/ARC) | ★ 1 |
+| [ML_internship](https://github.com/mukeshraju2006/ML_internship) | ★ 1 |
+
+## RELEASE HISTORY
+
+- **2026-09-21** · [oryn](https://github.com/mukeshraju2006/oryn) · v0.1.0
+
+## ENGINEERING SNAPSHOT
+
+| Signal | Current footprint |
+|---|---|
+| Public repositories | **10** |
+| Stars received | **3** |
+| Forks received | **1** |
+| Contributions in last 91 days | **150** across **29** active days |
+| Releases published | **1** |
+| Detected languages | **10** |
+
+## CONTRIBUTIONS
+
+| Metric | Count |
+|---|---:|
+| GitHub contributions · last 91 days | **150** |
 | Active contribution days | **29** |
 
 ### Open Source Contributions
