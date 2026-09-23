@@ -17,19 +17,22 @@ I like understanding what happens underneath the abstraction, then building enou
 | Releases published | **1** |
 | Detected languages | **10** |
 
-## CONTRIBUTION PULSE
+## CONTRIBUTIONS & ACCEPTED PRs
 
-Legend: · none   ▪ 1–2   ■ 3–5   █ 6+
+| Metric | Count |
+|---|---:|
+| GitHub contributions · last 91 days | **150** |
+| Active contribution days | **29** |
+| Merged PRs authored by me | **6** |
 
-<pre>
-·······■▪····
-·▪▪■█▪·······
-··········▪·█
-··▪█■█·······
-·············
-▪██··▪··■····
-█··▪■■■■█▪▪█■
-</pre>
+### Accepted Contributions
+
+- [Feature/browser restoration](https://github.com/mukeshraju2006/oryn/pull/1) · **oryn** · merged
+- [production source map set to false](https://github.com/mukeshraju2006/NULLBOX/pull/1) · **NULLBOX** · merged
+- [accessTokens in user controller for socket connection](https://github.com/divyanshgiri-sudo/NullChapter_Backend/pull/4) · **NullChapter_Backend** · merged
+- [Stabilized backend](https://github.com/divyanshgiri-sudo/NullChapter_Backend/pull/3) · **NullChapter_Backend** · merged
+- [Small changes](https://github.com/divyanshgiri-sudo/NullChapter_Backend/pull/1) · **NullChapter_Backend** · merged
+- [Revert "added popup"](https://github.com/mukeshraju2006/MediShare/pull/3) · **MediShare** · merged
 
 ## TECHNOLOGY FOOTPRINT
 
@@ -93,15 +96,15 @@ Legend: · none   ▪ 1–2   ■ 3–5   █ 6+
 | [ML_internship](https://github.com/mukeshraju2006/ML_internship) | flyrank ML internship | 1 | 0 |
 | [oryn](https://github.com/mukeshraju2006/oryn) | — | 1 | 0 |
 
-## STARRED / RESEARCH RADAR
+## STARRED REPOSITORIES
 
-- [mukeshraju2006/oryn](https://github.com/mukeshraju2006/oryn) · Python · ★ 1
-- [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) · Python · ★ 67350
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) · Python · ★ 55718
-- [CodebuffAI/freebuff](https://github.com/CodebuffAI/freebuff) · TypeScript · ★ 12591
-- [weave-os/router](https://github.com/weave-os/router) · Go · ★ 4863
-- [mukeshraju2006/ML_internship](https://github.com/mukeshraju2006/ML_internship) · Jupyter Notebook · ★ 1
-- [mukeshraju2006/ARC](https://github.com/mukeshraju2006/ARC) · Python · ★ 1
+Only repositories owned by **mukeshraju2006** are shown here, and only when they have received stars.
+
+| Repository | Stars |
+|---|---:|
+| [oryn](https://github.com/mukeshraju2006/oryn) | ★ 1 |
+| [ARC](https://github.com/mukeshraju2006/ARC) | ★ 1 |
+| [ML_internship](https://github.com/mukeshraju2006/ML_internship) | ★ 1 |
 
 ## RELEASE HISTORY
 
