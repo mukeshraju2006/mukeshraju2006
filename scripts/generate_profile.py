@@ -50,10 +50,11 @@ try:
   except: pass
 except: all_prs=[]
 try:
- q='query($l:String!){user(login:$l){contributionsCollection{contributionCalendar{weeks{contributionDays{date contributionCount}}}}}}'
+ q='query($l:String!){user(login:$l){contributionsCollection{restrictedContributionsCount contributionCalendar{weeks{contributionDays{date contributionCount}}}}}}'
  b=json.dumps({"query":q,"variables":{"l":U}}).encode(); req=urllib.request.Request("https://api.github.com/graphql",data=b,headers={"Authorization":"Bearer "+T,"Content-Type":"application/json"})
  con=json.load(urllib.request.urlopen(req)).get("data",{}).get("user",{}).get("contributionsCollection",{})
- days=[d for w in con.get("contributionCalendar",{}).get("weeks",[]) for d in w["contributionDays"]]
+ private_contributions=con.get("restrictedContributionsCount",0)
+days=[d for w in con.get("contributionCalendar",{}).get("weeks",[]) for d in w["contributionDays"]]
 except:pass
 days=sorted(days,key=lambda x:x["date"])[-91:]; total=sum(x["contributionCount"] for x in days); active=sum(x["contributionCount"]>0 for x in days)
 try: starred=pages(f"/users/{U}/starred")
@@ -68,7 +69,7 @@ try:
  b=json.dumps({"query":q,"variables":{"l":U}}).encode();req=urllib.request.Request("https://api.github.com/graphql",data=b,headers={"Authorization":"Bearer "+T,"Content-Type":"application/json"})
  pinned=json.load(urllib.request.urlopen(req)).get("data",{}).get("user",{}).get("pinnedItems",{}).get("nodes",[])
 except:pinned=[]
-L=["# Mukesh Raju Podilapu","","Integrated M.Tech CSE student @ VIT-AP University","","**AI/ML engineering · systems · open source · first-principles engineering**","","I like understanding what happens underneath the abstraction, then building enough of it to find out.","","## ENGINEERING SNAPSHOT","","| Signal | Current footprint |","|---|---|",f"| Public repositories | **{len(rs)}** |",f"| Stars received | **{sum(x.get('stargazers_count',0) for x in rs)}** |",f"| Forks received | **{sum(x.get('forks_count',0) for x in rs)}** |",f"| Contributions in last 91 days | **{total}** across **{active}** active days |",f"| Releases published | **{len(releases)}** |",f"| Detected languages | **{len(lb)}** |","","## CONTRIBUTION PULSE","","Legend: · none   ▪ 1–2   ■ 3–5   █ 6+","","<pre>",matrix,"</pre>","","## TECHNOLOGY FOOTPRINT","","| Technology | Repositories | Footprint |","|---|---:|---|"]
+L=["# Mukesh Raju Podilapu","","Integrated M.Tech CSE student @ VIT-AP University","","**AI/ML engineering · systems · open source · first-principles engineering**","","I like understanding what happens underneath the abstraction, then building enough of it to find out.","","## APPLICATIONS\n\n- **[Oryn](https://oryn-ebon.vercel.app)** · live · source: [oryn](https://github.com/mukeshraju2006/oryn)\n- **[Null Chapter Website](https://null-chapter-website.vercel.app)** · live · source: [null_chapter_website](https://github.com/mukeshraju2006/null_chapter_website)\n\n## ENGINEERING SNAPSHOT","","| Signal | Current footprint |","|---|---|",f"| Public repositories | **{len(rs)}** |",f"| Stars received | **{sum(x.get('stargazers_count',0) for x in rs)}** |",f"| Forks received | **{sum(x.get('forks_count',0) for x in rs)}** |",f"| Contributions in last 91 days | **{total}** across **{active}** active days |",f"| Private contributions · GitHub calendar | **{private_contributions}** |",f"| Releases published | **{len(releases)}** |",f"| Detected languages | **{len(lb)}** |","","## CONTRIBUTION PULSE","","Legend: · none   ▪ 1–2   ■ 3–5   █ 6+","","<pre>",matrix,"</pre>","","## TECHNOLOGY FOOTPRINT","","| Technology | Repositories | Footprint |","|---|---:|---|"]
 m=max(tech.values()) if tech else 1
 for k,v in tech.most_common():L.append(f"| {k} | {v} | {('█'*round(v/m*12)).ljust(12,'░')} |")
 L+=["","## LANGUAGE FOOTPRINT","","| Language | Repositories | Byte share |","|---|---:|---:|"]
