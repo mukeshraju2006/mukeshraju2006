@@ -31,12 +31,12 @@ I like understanding what happens underneath the abstraction, then building enou
 | Repository | Merged PRs |
 |---|---:|
 | [divyanshgiri-sudo/NullChapter_Backend](https://github.com/divyanshgiri-sudo/NullChapter_Backend) | **3** |
-| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | **1** |
 
 #### PRs opened in other repositories but not merged
 
 | Repository | Unmerged PRs |
 |---|---:|
+| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | **1** |
 | [divyanshgiri-sudo/NullChapter_Backend](https://github.com/divyanshgiri-sudo/NullChapter_Backend) | **1** |
 
 ## TECHNOLOGY FOOTPRINT
@@ -75,7 +75,6 @@ I like understanding what happens underneath the abstraction, then building enou
 | [oryn](https://github.com/mukeshraju2006/oryn) | Software | Python | 1 |
 | [ARC](https://github.com/mukeshraju2006/ARC) | AI / ML | Python | 1 |
 | [ML_internship](https://github.com/mukeshraju2006/ML_internship) | AI / ML | Jupyter Notebook | 1 |
-| [free-claude-code](https://github.com/mukeshraju2006/free-claude-code) | Software | Python | 0 |
 
 ## REPOSITORY PORTFOLIO
 
