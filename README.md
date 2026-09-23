@@ -17,22 +17,26 @@ I like understanding what happens underneath the abstraction, then building enou
 | Releases published | **1** |
 | Detected languages | **10** |
 
-## CONTRIBUTIONS & ACCEPTED PRs
+## CONTRIBUTIONS
 
 | Metric | Count |
 |---|---:|
 | GitHub contributions · last 91 days | **150** |
 | Active contribution days | **29** |
-| Merged PRs authored by me | **6** |
 
-### Accepted Contributions
+### PRs merged into my repositories
 
 - [Feature/browser restoration](https://github.com/mukeshraju2006/oryn/pull/1) · **oryn** · merged
 - [production source map set to false](https://github.com/mukeshraju2006/NULLBOX/pull/1) · **NULLBOX** · merged
-- [accessTokens in user controller for socket connection](https://github.com/divyanshgiri-sudo/NullChapter_Backend/pull/4) · **NullChapter_Backend** · merged
-- [Stabilized backend](https://github.com/divyanshgiri-sudo/NullChapter_Backend/pull/3) · **NullChapter_Backend** · merged
-- [Small changes](https://github.com/divyanshgiri-sudo/NullChapter_Backend/pull/1) · **NullChapter_Backend** · merged
 - [Revert "added popup"](https://github.com/mukeshraju2006/MediShare/pull/3) · **MediShare** · merged
+
+### PRs merged into other repositories
+
+These are contributions I made to repositories owned by other developers.
+
+- [accessTokens in user controller for socket connection](https://github.com/divyanshgiri-sudo/NullChapter_Backend/pull/4) · **divyanshgiri-sudo/NullChapter_Backend** · merged
+- [Stabilized backend](https://github.com/divyanshgiri-sudo/NullChapter_Backend/pull/3) · **divyanshgiri-sudo/NullChapter_Backend** · merged
+- [Small changes](https://github.com/divyanshgiri-sudo/NullChapter_Backend/pull/1) · **divyanshgiri-sudo/NullChapter_Backend** · merged
 
 ## TECHNOLOGY FOOTPRINT
 
