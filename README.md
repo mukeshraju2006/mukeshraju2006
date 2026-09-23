@@ -1,131 +1,151 @@
 # Mukesh Raju Podilapu
 
-**Integrated M.Tech CSE @ VIT-AP University**
+Integrated M.Tech CSE student @ VIT-AP University
 
-> AI/ML engineering · systems · open source · first-principles engineering
+**AI/ML engineering · systems · open source · first-principles engineering**
 
-```text
-BUILD → MEASURE → BREAK → DEBUG → UNDERSTAND → REPEAT
-```
+I like understanding what happens underneath the abstraction, then building enough of it to find out.
 
-I build software to understand how systems work, not just to make the abstraction happy.
+## ENGINEERING SNAPSHOT
 
----
-
-## Engineering Focus
-
-| Area | What I'm exploring |
+| Signal | Current footprint |
 |---|---|
-| **AI / ML** | Model implementation, ML fundamentals, deep learning and AI systems |
-| **Systems** | Agents, orchestration, infrastructure and developer tooling |
-| **Software** | APIs, databases, backend systems and full-stack engineering |
-| **Open Source** | Reading real codebases, contributing and learning from production systems |
+| Public repositories | **10** |
+| Stars received | **3** |
+| Forks received | **1** |
+| Contributions in last 91 days | **150** across **29** active days |
+| Releases published | **1** |
+| Detected languages | **10** |
 
-## Current Stack
+## CONTRIBUTION PULSE
 
-```text
-Python        ████████████████  AI/ML · data · tooling
-TypeScript    ██████████████░░  systems · web · applications
-Java          ████████████░░░░  DSA · coursework
-SQL           ███████████░░░░░  databases
-FastAPI       ██████████░░░░░░  backend APIs
-PostgreSQL    ██████████░░░░░░  persistence
-Docker        ████████░░░░░░░░  environments
-Git / GitHub  ███████████████░  version control · collaboration
-```
+Legend: · none   ▪ 1–2   ■ 3–5   █ 6+
 
----
+<pre>
+·······■▪····
+·▪▪■█▪·······
+··········▪·█
+··▪█■█·······
+·············
+▪██··▪··■····
+█··▪■■■■█▪▪█■
+</pre>
 
-## Featured Builds
+## TECHNOLOGY FOOTPRINT
 
-| Project | Domain | Stack |
-|---|---|---|
-| [Oryn](https://github.com/mukeshraju2006/oryn) | Systems | TypeScript |
-| [ARC](https://github.com/mukeshraju2006/ARC) | AI / ML | Python |
-| [ML Internship](https://github.com/mukeshraju2006/ML_internship) | ML / Data | Python |
-| [free-claude-code](https://github.com/mukeshraju2006/free-claude-code) | Developer Tooling | Python |
+| Technology | Repositories | Footprint |
+|---|---:|---|
+| TypeScript | 6 | ████████████ |
+| JavaScript | 6 | ████████████ |
+| Python | 5 | ██████████░░ |
+| React | 5 | ██████████░░ |
+| Next.js | 4 | ████████░░░░ |
+| PostgreSQL / SQL | 3 | ██████░░░░░░ |
+| FastAPI | 2 | ████░░░░░░░░ |
+| Java | 1 | ██░░░░░░░░░░ |
+| Prisma | 1 | ██░░░░░░░░░░ |
 
-## Repository Portfolio
+## LANGUAGE FOOTPRINT
 
-| Repository | Area |
-|---|---|
-| [oryn](https://github.com/mukeshraju2006/oryn) | Systems / Workspace Engineering |
-| [ARC](https://github.com/mukeshraju2006/ARC) | AI / ML |
-| [ML_internship](https://github.com/mukeshraju2006/ML_internship) | Machine Learning |
-| [free-claude-code](https://github.com/mukeshraju2006/free-claude-code) | Developer Tooling |
-| [MediShare](https://github.com/mukeshraju2006/MediShare) | Software |
-| [empowerHer](https://github.com/mukeshraju2006/empowerHer) | Software |
-| [null_cal](https://github.com/mukeshraju2006/null_cal) | Software |
-| [CodeCrew](https://github.com/mukeshraju2006/CodeCrew) | Software |
-| [null_chapter_website](https://github.com/mukeshraju2006/null_chapter_website) | Web / Open Source |
+| Language | Repositories | Byte share |
+|---|---:|---:|
+| Python | 5 | 76.1% |
+| TypeScript | 4 | 9.6% |
+| JavaScript | 6 | 7.3% |
+| Jupyter Notebook | 1 | 2.5% |
+| CSS | 6 | 2.3% |
+| PowerShell | 1 | 1.3% |
+| Shell | 1 | 0.7% |
+| HTML | 5 | 0.1% |
+| Mermaid | 1 | 0.0% |
+| Inno Setup | 1 | 0.0% |
 
----
+## FEATURED BUILDS
 
-## Applications
+| Project | Domain | Language | Stars |
+|---|---|---|---:|
+| [oryn](https://github.com/mukeshraju2006/oryn) | Software | Python | 1 |
+| [ARC](https://github.com/mukeshraju2006/ARC) | AI / ML | Python | 1 |
+| [ML_internship](https://github.com/mukeshraju2006/ML_internship) | AI / ML | Jupyter Notebook | 1 |
+| [free-claude-code](https://github.com/mukeshraju2006/free-claude-code) | Software | Python | 0 |
 
-- **[Oryn](https://oryn-ebon.vercel.app)** · live application
-- **[Null Chapter Website](https://null-chapter-website.vercel.app)** · live application
+## REPOSITORY PORTFOLIO
 
----
+| Repository | Domain | Language | Updated |
+|---|---|---|---|
+| [mukeshraju2006](https://github.com/mukeshraju2006/mukeshraju2006) | Software | Python | 2026-09-23 |
+| [null_chapter_website](https://github.com/mukeshraju2006/null_chapter_website) | Web | JavaScript | 2026-09-22 |
+| [oryn](https://github.com/mukeshraju2006/oryn) | Software | Python | 2026-09-21 |
+| [CodeCrew](https://github.com/mukeshraju2006/CodeCrew) | Web | JavaScript | 2026-09-07 |
+| [free-claude-code](https://github.com/mukeshraju2006/free-claude-code) | Software | Python | 2026-09-06 |
+| [ML_internship](https://github.com/mukeshraju2006/ML_internship) | AI / ML | Jupyter Notebook | 2026-08-31 |
+| [null_cal](https://github.com/mukeshraju2006/null_cal) | Software | TypeScript | 2026-08-30 |
+| [ARC](https://github.com/mukeshraju2006/ARC) | AI / ML | Python | 2026-07-12 |
+| [MediShare](https://github.com/mukeshraju2006/MediShare) | Software | TypeScript | 2026-01-28 |
+| [empowerHer](https://github.com/mukeshraju2006/empowerHer) | Software | TypeScript | 2026-01-25 |
 
-## Engineering Principles
+## PINNED ON GITHUB
+
+| Repository | Description | Stars | Forks |
+|---|---|---:|---:|
+| [CodeCrew](https://github.com/mukeshraju2006/CodeCrew) | CodeCrew website . This is a place where developers can share their ideas , find other developers to work on their ideas as a team, developers can create and manage their teams and application requests, also there is a chat option available for each team where the respective team members can chat. | 0 | 0 |
+| [ARC](https://github.com/mukeshraju2006/ARC) | AI engineering platform | 1 | 0 |
+| [ML_internship](https://github.com/mukeshraju2006/ML_internship) | flyrank ML internship | 1 | 0 |
+| [oryn](https://github.com/mukeshraju2006/oryn) | — | 1 | 0 |
+
+## STARRED / RESEARCH RADAR
+
+- [mukeshraju2006/oryn](https://github.com/mukeshraju2006/oryn) · Python · ★ 1
+- [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) · Python · ★ 67350
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) · Python · ★ 55718
+- [CodebuffAI/freebuff](https://github.com/CodebuffAI/freebuff) · TypeScript · ★ 12591
+- [weave-os/router](https://github.com/weave-os/router) · Go · ★ 4863
+- [mukeshraju2006/ML_internship](https://github.com/mukeshraju2006/ML_internship) · Jupyter Notebook · ★ 1
+- [mukeshraju2006/ARC](https://github.com/mukeshraju2006/ARC) · Python · ★ 1
+
+## RELEASE HISTORY
+
+- **2026-09-21** · [oryn](https://github.com/mukeshraju2006/oryn) · v0.1.0
+
+## APPLICATIONS
+
+- **[Oryn](https://oryn-ebon.vercel.app)** · live · source: [oryn](https://github.com/mukeshraju2006/oryn)
+- **[Null Chapter Website](https://null-chapter-website.vercel.app)** · live · source: [null_chapter_website](https://github.com/mukeshraju2006/null_chapter_website)
+
+## RECENT BUILD ACTIVITY
+
+- 2026-09-23 · [mukeshraju2006](https://github.com/mukeshraju2006/mukeshraju2006) · Software
+- 2026-09-22 · [null_chapter_website](https://github.com/mukeshraju2006/null_chapter_website) · Web
+- 2026-09-21 · [oryn](https://github.com/mukeshraju2006/oryn) · Software
+- 2026-09-06 · [free-claude-code](https://github.com/mukeshraju2006/free-claude-code) · Software
+- 2026-08-31 · [ML_internship](https://github.com/mukeshraju2006/ML_internship) · AI / ML
+- 2026-08-30 · [null_cal](https://github.com/mukeshraju2006/null_cal) · Software
+- 2026-07-12 · [ARC](https://github.com/mukeshraju2006/ARC) · AI / ML
+- 2026-07-02 · [CodeCrew](https://github.com/mukeshraju2006/CodeCrew) · Web
+- 2026-01-28 · [MediShare](https://github.com/mukeshraju2006/MediShare) · Software
+- 2026-01-25 · [empowerHer](https://github.com/mukeshraju2006/empowerHer) · Software
 
 <details>
-<summary><b>How I approach engineering</b></summary>
+<summary><b>Engineering principles</b></summary>
 
-- Understand the problem before choosing the abstraction.
+- Prefer understanding the system over memorising the abstraction.
 - Build small enough to reason about.
 - Measure before guessing.
 - Treat failures as evidence.
-- Read source code when documentation stops being enough.
-- Prefer implementation and experimentation over passive tutorials.
+- Learn by implementing, debugging, and reading real systems.
 
 </details>
 
 <details>
-<summary><b>Current direction</b></summary>
+<summary><b>Current direction</b></summary
 
 - AI/ML engineering
-- Systems engineering
-- Open-source development
-- Understanding models and infrastructure from first principles
+- systems engineering
+- open-source development
+- understanding models and infrastructure from first principles
 
 </details>
 
 ---
 
-## Automated Profile Analytics
-
-This profile is backed by a small GitHub data pipeline in this repository.
-
-It automatically tracks and renders:
-
-- repository portfolio
-- pinned repositories
-- starred repositories / research radar
-- language footprint
-- technology evidence extracted from repositories
-- contribution activity
-- published releases
-- recent build activity
-- applications
-
-No external stats-image service is required.
-
-```text
-GitHub API
-    ↓
-profile analytics
-    ↓
-README generator
-    ↓
-GitHub Actions
-    ↓
-this profile
-```
-
-The generator runs on repository changes, published releases, manual workflow runs, and every 6 hours.
-
----
-
-<sub>Generated profile system · mukeshraju2006</sub>
+<sub>Generated from GitHub repository, contribution, language, release, pinned, and starred data. Refreshed automatically by GitHub Actions.</sub>
