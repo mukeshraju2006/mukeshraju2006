@@ -24,15 +24,11 @@ I like understanding what happens underneath the abstraction, then building enou
 | GitHub contributions · last 91 days | **150** |
 | Active contribution days | **29** |
 
-### PRs merged into my repositories
+### Open Source Contributions
 
-- [Feature/browser restoration](https://github.com/mukeshraju2006/oryn/pull/1) · **oryn** · merged
-- [production source map set to false](https://github.com/mukeshraju2006/NULLBOX/pull/1) · **NULLBOX** · merged
-- [Revert "added popup"](https://github.com/mukeshraju2006/MediShare/pull/3) · **MediShare** · merged
+Contributions to repositories owned by other developers.
 
-### PRs merged into other repositories
-
-These are contributions I made to repositories owned by other developers.
+#### Merged PRs
 
 - [accessTokens in user controller for socket connection](https://github.com/divyanshgiri-sudo/NullChapter_Backend/pull/4) · **divyanshgiri-sudo/NullChapter_Backend** · merged
 - [Stabilized backend](https://github.com/divyanshgiri-sudo/NullChapter_Backend/pull/3) · **divyanshgiri-sudo/NullChapter_Backend** · merged
