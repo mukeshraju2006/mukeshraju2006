@@ -27,6 +27,7 @@ def dom(r):
  return "Software"
 rs=[x for x in pages(f"/users/{U}/repos?type=public&sort=updated") if not x.get("archived") and not x.get("disabled")]
 by={x["name"]:x for x in rs}; lb=Counter(); lr=Counter(); tech=Counter()
+featured=[by[n] for n in C["featured_repositories"] if n in by and not by[n].get("fork")]
 rules={"Python":["python","requirements.txt","pyproject.toml"],"TypeScript":["typescript","package.json",".ts"],"JavaScript":["javascript","package.json",".js"],"Java":["java","pom.xml","build.gradle"],"PostgreSQL / SQL":["postgresql","prisma","alembic",".sql"],"FastAPI":["fastapi"],"Next.js":["next"],"React":["react"],"Prisma":["prisma"],"Docker":["dockerfile","docker-compose"],"GitHub Actions":[".github/workflows"]}
 for r in rs:
  n=r["name"]
@@ -37,10 +38,17 @@ for r in rs:
  except:f=""
  for k,v in rules.items():
   if any(p in f for p in v) or k==r.get("language"):tech[k]+=1
-con={}; days=[]; merged_prs=[]
+con={}; days=[]; merged_prs=[]; all_prs=[]
 try:
- merged_prs=g(f"/search/issues?q=is%3Apr+is%3Amerged+author%3A{U}&sort=updated&order=desc&per_page=20").get("items",[])
-except: merged_prs=[]
+ all_prs=g(f"/search/issues?q=is%3Apr+author%3A{U}&sort=updated&order=desc&per_page=100").get("items",[])
+ for p in all_prs:
+  repo=p.get("repository_url","").split("/repos/")[-1]
+  if not repo: continue
+  try:
+   detail=g(f"/repos/{repo}/pulls/{p.get('number')}")
+   if detail.get("merged") is True: merged_prs.append(p)
+  except: pass
+except: all_prs=[]
 try:
  q='query($l:String!){user(login:$l){contributionsCollection{contributionCalendar{weeks{contributionDays{date contributionCount}}}}}}'
  b=json.dumps({"query":q,"variables":{"l":U}}).encode(); req=urllib.request.Request("https://api.github.com/graphql",data=b,headers={"Authorization":"Bearer "+T,"Content-Type":"application/json"})
@@ -67,9 +75,8 @@ L+=["","## LANGUAGE FOOTPRINT","","| Language | Repositories | Byte share |","|-
 z=sum(lb.values()) or 1
 for k,v in lb.most_common():L.append(f"| {k} | {lr[k]} | {v/z:.1%} |")
 L+=["","## FEATURED BUILDS","","| Project | Domain | Language | Stars |","|---|---|---|---:|"]
-for n in C["featured_repositories"]:
- if n in by:
-  r=by[n];L.append(f"| [{n}](https://github.com/{U}/{n}) | {dom(r)} | {r.get('language') or '—'} | {r.get('stargazers_count',0)} |")
+for r in featured:
+ n=r["name"];L.append(f"| [{n}](https://github.com/{U}/{n}) | {dom(r)} | {r.get('language') or '—'} | {r.get('stargazers_count',0)} |")
 L+=["","## REPOSITORY PORTFOLIO","","| Repository | Domain | Language | Updated |","|---|---|---|---|"]
 for r in rs:L.append(f"| [{r['name']}](https://github.com/{U}/{r['name']}) | {dom(r)} | {r.get('language') or '—'} | {(r.get('updated_at') or '')[:10]} |")
 if pinned:
