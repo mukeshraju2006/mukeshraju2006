@@ -26,13 +26,18 @@ I like understanding what happens underneath the abstraction, then building enou
 
 ### Open Source Contributions
 
-Contributions to repositories owned by other developers.
+#### PRs merged in other repositories
 
-#### Merged PRs
+| Repository | Merged PRs |
+|---|---:|
+| [divyanshgiri-sudo/NullChapter_Backend](https://github.com/divyanshgiri-sudo/NullChapter_Backend) | **3** |
+| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | **1** |
 
-- [accessTokens in user controller for socket connection](https://github.com/divyanshgiri-sudo/NullChapter_Backend/pull/4) · **divyanshgiri-sudo/NullChapter_Backend** · merged
-- [Stabilized backend](https://github.com/divyanshgiri-sudo/NullChapter_Backend/pull/3) · **divyanshgiri-sudo/NullChapter_Backend** · merged
-- [Small changes](https://github.com/divyanshgiri-sudo/NullChapter_Backend/pull/1) · **divyanshgiri-sudo/NullChapter_Backend** · merged
+#### PRs opened in other repositories but not merged
+
+| Repository | Unmerged PRs |
+|---|---:|
+| [divyanshgiri-sudo/NullChapter_Backend](https://github.com/divyanshgiri-sudo/NullChapter_Backend) | **1** |
 
 ## TECHNOLOGY FOOTPRINT
 
