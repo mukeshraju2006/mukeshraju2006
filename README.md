@@ -81,7 +81,6 @@ I like understanding what happens underneath the abstraction, then building enou
 
 | Repository | Domain | Language | Updated |
 |---|---|---|---|
-| [mukeshraju2006](https://github.com/mukeshraju2006/mukeshraju2006) | Software | Python | 2026-09-23 |
 | [null_chapter_website](https://github.com/mukeshraju2006/null_chapter_website) | Web | JavaScript | 2026-09-22 |
 | [oryn](https://github.com/mukeshraju2006/oryn) | Software | Python | 2026-09-21 |
 | [CodeCrew](https://github.com/mukeshraju2006/CodeCrew) | Web | JavaScript | 2026-09-07 |
